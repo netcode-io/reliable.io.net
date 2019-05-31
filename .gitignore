@@ -1,0 +1,35 @@
+# Visual Studio
+*.db
+*.opendb
+*.csproj
+*.csproj.user
+*.sln
+.vscode
+_*
+
+# Binary files
+*.o
+*.dylib
+*.so
+
+# Misc
+*.txt
+*.7z
+*.zip
+*.tar.gz
+
+# Sublime text
+*.sublime-project
+*.sublime-workspace
+
+# Directories we don't ever want to commit
+bin
+obj
+ipch
+Debug
+release
+Release
+Secure
+.vs
+cov-int
+docs
