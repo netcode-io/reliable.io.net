@@ -1,4 +1,8 @@
-[![Travis Build Status](https://travis-ci.org/network-io/reliable.io.net.svg?branch=master)](https://travis-ci.org/network-io/reliable.io.net)
+[![Travis Build Status](https://travis-ci.org/netcode-io/reliable.io.net.svg?branch=master)](https://travis-ci.org/netcode-io/reliable.io.net)
+
+# reliable.io.net
+
+**reliable.io.net** is a transpile of **reliable.io**.
 
 # Introduction
 
