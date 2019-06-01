@@ -5,6 +5,9 @@
 *.csproj.user
 *.sln
 .vscode
+app.config
+packages
+packages.config
 _*
 
 # Binary files
@@ -32,4 +35,5 @@ Release
 Secure
 .vs
 cov-int
+docker/reliable.io.net
 docs

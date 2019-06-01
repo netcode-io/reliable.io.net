@@ -129,7 +129,7 @@ dotnet sln add _*/*.csproj]]
       trigger     = "docker",
       description = "Build and run reliable.io.net tests inside docker",
       execute = function ()
-          os.execute "rm -rf docker/reliable.io && mkdir -p docker/reliable.io \z
+          os.execute "rm -rf docker/reliable.io.net && mkdir -p docker/reliable.io.net \z
 && cp *.cs docker/reliable.io.net \z
 && cp premake5.lua docker/reliable.io.net \z
 && cd docker \z
